@@ -1,7 +1,8 @@
-
 # 🎲 Dice Roller
 
 A simple and fun dice roller app built with HTML, CSS, and JavaScript! Roll the dice with a click and get a random result every time! 🎉
+
+![Modern Black White Dice Toys Game Store Logo(1)](https://github.com/user-attachments/assets/90839ffc-ef31-4328-badd-8e2bb153c43a)
 
 ## ✨ Features
 
